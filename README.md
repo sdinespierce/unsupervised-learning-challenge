@@ -10,3 +10,5 @@ This is a homework assignment for Case Western Reserve University's Data Analyti
 # Contents of Repo
 
 Included is a csv of the original data and a notebook. The notebook contains data cleaning, dimensionality reduction, clustering, and a simple analysis of the outcome. 
+
+![screenshot of results](unsupervised-learning.png)
